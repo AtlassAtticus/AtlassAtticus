@@ -1,4 +1,4 @@
-- 👋 #!/bin/bash
+#!/bin/bash
 
 echo "Hi, I'm @AtlassAtticus"
 echo "👀 I'm interested in cyber security and specifically penetration testing."
